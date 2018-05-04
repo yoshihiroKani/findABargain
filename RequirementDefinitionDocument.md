@@ -1,3 +1,5 @@
+# RequirementDefinitionDocument
+
 ## target EC site list
 * Amazon
 * e-bay
@@ -8,7 +10,7 @@
   * メルカリ
   * ジモティー
   * Yahoo! オークション
-  
+  
 ## system flow
 1. Amazonの商品を重複なくピックアップする
     * ASINを1~ループする　など
