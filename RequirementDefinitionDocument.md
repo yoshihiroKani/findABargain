@@ -1,6 +1,6 @@
 # RequirementDefinitionDocument
 
-## 1. target EC site list
+## target EC site list
 * Amazon
 * e-bay
 * 楽天
@@ -11,7 +11,7 @@
   * ジモティー
   * Yahoo! オークション
   
-## 1. system flow
+## system flow
 1. Amazonの商品を重複なくピックアップする
     * ASINを1~ループする　など
 1. Google Chromeのグローバルサーチ機能に1.の商品情報を渡す
